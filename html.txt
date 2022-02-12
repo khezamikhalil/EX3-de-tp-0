@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+     <title> tp0 web </title>
+</head>
+<body>
+    <h1> tableau de mult </h1>
+    <button onclick="calc()" > click  </button>
+    <p id="a"> </p>
+    </body>
+    <script src="s.js" ></script>
+</html>

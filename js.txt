@@ -1,0 +1,13 @@
+function calc()
+{
+    let x=prompt("donne x :");
+    document.getElementById("a");
+    var res;
+    for (i=1; i<=10 ; i++)
+    {
+        res = x*i;
+        document.write(x+ "*" + i + "="+ res + "<br>");
+
+    }
+    document.write("<br>")
+}
